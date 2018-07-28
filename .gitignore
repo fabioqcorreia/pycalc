@@ -3,5 +3,4 @@
 __pycache__/
 .coverage
 coverage.xml
-sonar-project.properties
 venv/
