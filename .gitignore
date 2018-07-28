@@ -1,0 +1,7 @@
+.idea/
+.scannerwork/
+__pycache__/
+.coverage/
+coverage.xml
+sonar-project.properties
+venv/
