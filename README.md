@@ -70,6 +70,8 @@ Agora que temos o arquivo `coverage.xml` criado, podemos utilizá-lo para enviar
 
 Após a execução concluída, poderá verificar no seu dashboard do SonarCloud.
 
+SonarCloud do PyCalc: [link][8]
+
 [1]: https://www.python.org/downloads/release/python-366/
 [2]: https://coverage.readthedocs.io/
 [3]: https://sonarcloud.io/
@@ -77,3 +79,4 @@ Após a execução concluída, poderá verificar no seu dashboard do SonarCloud.
 [5]: https://pypi.org/project/coverage/
 [6]: https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner
 [7]: https://sonarcloud.io/api/project_badges/measure?project=pycalc&metric=alert_status
+[8]: https://sonarcloud.io/dashboard?id=pycalc
